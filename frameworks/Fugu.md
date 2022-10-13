@@ -1,5 +1,5 @@
-# FUGU
-Brian2 is an open source spiking neural network simulator based on python.
+# Fugu
+A python library for computational neural graphs.
 
 ---
 [project](https://github.com/SNL-NERL/Fugu)
